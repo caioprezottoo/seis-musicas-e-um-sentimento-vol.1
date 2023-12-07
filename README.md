@@ -12,7 +12,7 @@ Este é um projeto pessoal que fiz para a minha namorada. Minha intenção era u
 
 Primeiro defini meu objetivo que era construir algo útil e intuitivo. Depois fiz pesquisas para entender como desenvolver o projeto e para aplicar as técnicas que transformassem a ideia em algo concreto. Assim, depois de ter claro em minha mente o que desenvolver, criei um site básico e agradável para poder escutar as músicas do álbum.
 
-### Por trás do projeto:
+## Por trás do projeto:
 
 O projeto significou bastante tanto para mim quanto para a minha namorada. Para mim, que consegui transformar uma ideia em algo concreto, tanto da produção do álbum quanto do desenvolvimento do site. E para ela, que gostou da surpresa.
 
